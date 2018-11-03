@@ -1,2 +1,2 @@
-# bamazon
-node command line that mocks an amazon type shopping service
+# Bamazon
+node command line that mocks an Amazon type shopping service.
